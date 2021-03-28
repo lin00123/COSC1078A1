@@ -1,0 +1,113 @@
+/* standard format */
+body {
+	margin: 0;
+	background-color: #1a1a1a;
+}
+
+h1 {
+	font-size: 48px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 25px 0 0 100px;
+}
+
+h2 {
+	font-size: 36px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0 0 25px 100px
+}
+
+h3 {
+	font-size: 28px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/* end standard format */
+
+.header {
+	background-color:#00ffcc;
+	color:#333333;
+	padding: 10px 0 10px 0;
+	margin: 10px 0 50px 0;
+	border-bottom: 5px solid #00cca3;
+
+}
+
+.col1 {
+	display: flex;
+	margin: auto;
+}
+
+#header {
+	display: flex;
+	margin: 0px 0px 0px 5%;
+	color:#333333;
+}
+
+.intro {
+	display: flex;
+	color: white;
+}
+#pi{
+	display: flex;
+	color: white;
+	margin: 0 2% 0 2%
+}
+.introtitle{
+	color: #00ffcc;
+	border-right: #00ffcc solid 10px;
+	padding-right: 10px;
+}
+.introtext{
+	font-size: 30px;
+	margin: 0 0 0 0;
+	color: #00ffcc;
+}
+.img{
+	margin: 0 0 0 4%;
+	border: solid #00ffcc 5px;
+}
+.def{
+	display: flex;
+	color: white;
+}
+.bodytext0{
+	font-size: 20px;
+	margin: 100px 2% 0px 2%
+}
+.subt{
+	margin: 100px 0px 0px 50px;
+	border-right: #00ffcc solid 10px;
+	padding-right: 10px;
+}
+.subt2{
+	margin: 100px 50px 0px 50px;
+	border-right: #00ffcc solid 10px;
+	padding-right: 10px;
+}
+.itprtxtb{
+	color: white;
+	font-size: 24px;
+	margin: 80px 150px 0px 150px
+}
+.itprtxt{
+	color: white;
+	font-size: 24px;
+	margin: 0px 150px 0px 150px
+}
+.itprtxte{
+	color: white;
+	font-size: 24px;
+	margin: 0px 150px 400px 150px
+}
+#itpri{
+	margin: 100px 40% 0px 40%;
+}
